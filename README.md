@@ -83,7 +83,7 @@ Explored the Task Parallel Library (TPL) to handle concurrent tasks efficiently.
 ## **How to Use**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Nika-Sard/epam-tasks.git
+   git clone https://github.com/Nika-Sard/CSharp-Tasks.git
    ```
 2. Navigate to the specific task folder to view the implementation.
 
